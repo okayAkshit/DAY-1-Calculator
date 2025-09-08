@@ -1,0 +1,14 @@
+[
+    {
+        "name": "atomic habit",
+        "author": "akshit",
+        "done": true,
+        "date": "2025-09-07"
+    },
+    {
+        "name": "rdpd",
+        "author": "partj",
+        "done": false,
+        "date": "2025-09-07"
+    }
+]
